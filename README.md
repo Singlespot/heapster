@@ -1,8 +1,7 @@
 # Heapster
 
 Project Modified to work with Kubenetes 1.11.3 according to this post:
-https://brookbach.com/2018/10/29/Heapster-on-Kubernetes-1.11.3.html
-
+file://HTML_Post/Post.html
 
 ***RETIRED***: Heapster is now retired.  See the [deprecation timeline](docs/deprecation.md)
 for more information on support. We will not be making changes to Heapster.
